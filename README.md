@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Aman%20Kumar%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Cloud%20%26%20DevOps%20%C2%B7%20AI%20Engineering&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Aman Kumar Singh: backend, cloud and DevOps, AI engineering" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Aman%20Kumar%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20%7C%20Cloud%20%7C%20DevOps%20%7C%20AI%20Engineering&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Aman Kumar Singh: backend, cloud and DevOps, AI engineering" />
 </p>
 
 <p align="center">
@@ -39,19 +39,3 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codicecustode&theme=tokyonight" alt="Repos per language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codicecustode&theme=tokyonight" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codicecustode&theme=tokyonight" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codicecustode&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codicecustode&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=110&section=footer" width="100%" alt="" />
-</p>
