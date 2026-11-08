@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Aman%20Kumar%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Aman Kumar Singh, Backend Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Aman%20Kumar%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Cloud%20%26%20DevOps%20%C2%B7%20AI%20Engineering&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Aman Kumar Singh: backend, cloud and DevOps, AI engineering" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Backend+developer+from+Delhi;Real-time+systems+with+WebSockets+%26+Redis;AI+voice+agents+and+natural-language+SQL;Docker%2C+Kubernetes+and+CI%2FCD+on+AWS" alt="Backend developer from Delhi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Backend%2C+cloud+and+DevOps+engineer;Azure%2C+Docker%2C+Kubernetes+and+Terraform;CI%2FCD+pipelines+with+GitHub+Actions;Real-time+systems+with+WebSockets+%26+Redis;Exploring+AI+engineering+and+LLM+apps" alt="Backend, cloud and DevOps engineer" />
 </p>
 
 <p align="center">
@@ -12,16 +12,24 @@
 
 ## About me
 
+- 🖥️ **Backend:** real-time APIs and services in TypeScript, Python and Go, built on WebSockets, Socket.IO and Redis
+- ☁️ **Cloud & DevOps:** Azure is my main cloud, with growing AWS experience (EC2, EKS); I ship with Docker, Kubernetes, Terraform and GitHub Actions
+- 🤖 **AI engineering:** building LLM-powered apps such as a multilingual voice agent, natural-language SQL and document Q&A
 - 🔭 Currently building an inference job scheduler in Go
-- ⚡ Real-time backends with WebSockets, Socket.IO and Redis
-- 🤖 AI-powered services: multilingual voice agents, natural-language SQL, document Q&A
-- 🚀 Deploying with Docker, Kubernetes, Terraform and GitHub Actions
 - 📍 Based in Delhi, India
 
 ## Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,nodejs,express,fastapi,django,react,nextjs,mongodb,postgres,mysql,redis,docker,kubernetes,aws,terraform,githubactions,nginx,linux,git&perline=11" alt="TypeScript, JavaScript, Python, Go, Node.js, Express, FastAPI, Django, React, Next.js, MongoDB, PostgreSQL, MySQL, Redis, Docker, Kubernetes, AWS, Terraform, GitHub Actions, Nginx, Linux, Git" />
+<p align="center"><b>Languages and frameworks</b><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,nodejs,express,fastapi,django,react,nextjs" alt="TypeScript, JavaScript, Python, Go, Node.js, Express, FastAPI, Django, React, Next.js" />
+</p>
+
+<p align="center"><b>Cloud and DevOps</b><br />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,nginx,prometheus,linux,git" alt="Azure, AWS, Docker, Kubernetes, Terraform, GitHub Actions, Nginx, Prometheus, Linux, Git" />
+</p>
+
+<p align="center"><b>Data</b><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="PostgreSQL, MongoDB, MySQL, Redis" />
 </p>
 
 ## GitHub stats
