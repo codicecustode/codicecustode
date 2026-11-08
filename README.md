@@ -27,16 +27,21 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codicecustode&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=stars&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codicecustode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codicecustode&theme=tokyonight" alt="Profile details and contributions" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codicecustode&theme=tokyonight" alt="Repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codicecustode&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codicecustode&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codicecustode&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codicecustode&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codicecustode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
